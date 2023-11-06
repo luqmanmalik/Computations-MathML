@@ -2,5 +2,5 @@
   <img src="https://raw.githubusercontent.com/luqmanmalik/Computations-MathML/master/CMML_cover.png">
 </p>
 
-# Computations-MathML
+# Computations in MathML
 Computing in MathML
